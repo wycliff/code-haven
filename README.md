@@ -4,3 +4,7 @@ CODE HAVEN is repository that contains a number of common algorithmic computer s
 ## Insertion Sort: 
 This shows an implementation of the insertion sort algorithm in JAVA.Here it is used to sort a number of integers in non- decreasing  order.
 The implementation was done using  netbeans IDE. 
+
+## Selection Sort: 
+This shows an implementation of the selection sort algorithm in JAVA.Here it is used to sort a number of integers in non- decreasing  order.
+The implementation was done using  netbeans IDE.
