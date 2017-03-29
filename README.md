@@ -1,7 +1,7 @@
 # code-haven
 CODE HAVEN is repository that contains a number of common algorithmic computer science solutions to problems implemented mostly in the JAVA programming language.
 
-## DevidCounquer2
+## DevideConquer2
 This shows an implementation for finding the minimum and the maximum of an array of integers using a recursive devide and conquer algorithmic approach.
 
 ## Insertion Sort: 
